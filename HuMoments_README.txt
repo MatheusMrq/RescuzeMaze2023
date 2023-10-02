@@ -1,0 +1,4 @@
+ -This code is a connection between the Arduino Mega (any variation) and a Raspberry Pi 3/4 using the communication ports Tx/Rx (Raspberry) and 0/1 (Arduino).
+ -It uses the 'Hu Moments' technology to identify three different letters (S, H, and U) in a way that does not vary in size, rotation, or mirroring, using the OpenCV 3.2.0 library, which, in turn, operates in image processing and computer vision.
+ -It is also possible to identify three colors with this code: Yellow, Red, and Green, using the Numpy library along with OpenCV.
+ -The code is written in Python."
